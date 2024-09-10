@@ -14,8 +14,7 @@ IF "%1" == "120" goto :set_rate
 IF "%1" == "144" goto :set_rate
 
 REM If %1 is not a valid refresh rate, then exit
-ECHO %1 is an Invalid option
-goto :EOF
+ECHO %1 is an Invalid refresh rate
 
 REM If no arguments are passed, then toggle between 60 and 144
 :min_max
