@@ -1,6 +1,6 @@
 # RRswitcher
 Command line based refresh rate switcher for Windows machines.
-Uses [Qres]("https://github.com/Xcraft-Inc/QRes") to set refresh rate and [Windows Powertoys]("https://github.com/microsoft/PowerToys/") to create a keyboard shortcut
+Uses [Qres](https://github.com/Xcraft-Inc/QRes) to set refresh rate and [Windows Powertoys](https://github.com/microsoft/PowerToys/) to create a keyboard shortcut
 
 ## Prerequisite
 - Windows PowerToys v0.84.0 or above
