@@ -41,3 +41,7 @@ Uses [Qres]("https://github.com/Xcraft-Inc/QRes") to set refresh rate and [Windo
 
 ## Credits
 QRes by Anders Kjersem
+
+## TODO
+- Make a script/find a way to automatically add dir to path
+- Include CRU (Custom Resolution Utility) if needed with instructions
