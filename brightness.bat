@@ -1,0 +1,1 @@
+powershell -File "brightness.ps1" %1
